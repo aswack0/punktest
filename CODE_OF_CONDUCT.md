@@ -1,7 +1,7 @@
 # Code of Conduct
 
 ## Our Pledge
-
+I AM TESTING UPDATING THIS FILE. 
 A primary goal of the CollectionBuilder community is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As community participants, we pledge to make participation in our project and community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 We invite all those who participate in the CollectionBuilder project and community to help us create safe and positive experiences for everyone.
