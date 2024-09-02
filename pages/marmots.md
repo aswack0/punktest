@@ -27,4 +27,4 @@ permalink: /marmots.html
 ---
 [Virtual Exhibitions](https://exhibitions.lib.umd.edu/)
 
-![Amy is testing alt text](image.jpg)
+![Amy is testing alt text](objects/circus-lupus.jpg)
