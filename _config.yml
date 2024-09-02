@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # title of site appears in banner
 title: Testing this system with a few items from the punk collections
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Is this system feasible to use?
+tagline: Is this system feasible for us to use?
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho;history;inland northwest
+keywords: punk;zines;washington dc;
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
 
@@ -34,7 +34,7 @@ author: CollectionBuilder
 #
 # Set the metadata for your collection (the name of the CSV file in your _data directory that describes the objects in your collection)
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: another-punk-CSV
+metadata: punk-test
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
 # page_gen:
@@ -50,11 +50,10 @@ metadata: another-punk-CSV
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them.
 #
-organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-organization-link: https://cdil.lib.uidaho.edu/
-organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
-
+organization-name: "University of Maryland Libraries"
+organization-link: https://www.lib.umd.edu/
+organization-logo-banner: https://www.lib.umd.edu/sites/default/files/2021-06/logo.svg
+organization-logo-nav: https://www.lib.umd.edu/sites/default/files/2021-06/logo.svg
 ##########
 # ROBOTS EXCLUDE
 #
